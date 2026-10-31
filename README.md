@@ -14,7 +14,7 @@ Starstruck: 1 stars on one repo (tier 0) - 15 more to reach 16
 
 ## Install
 ```bash
-git clone https://github.com/Jeevan2410/achievement-tracker.git
+git clone https://github.com/3T3RN4TU5/achievement-tracker.git
 cd achievement-tracker
 npm install
 npm run build
